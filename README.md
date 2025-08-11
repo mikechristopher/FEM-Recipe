@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/mikechristopher/FEM-Recipe)
-- Live Site URL: [Github Pages - QR](https://mikechristopher.github.io/FEM-Recipe/)
+- Live Site URL: [Github Pages](https://mikechristopher.github.io/FEM-Recipe/)
 
 ## My process
 
